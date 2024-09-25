@@ -1,20 +1,20 @@
-  *𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐑𝐀𝐕𝐄𝐍𝐒 𝐌𝐃*
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'M+𝐑𝐀𝐕𝐄𝐍𝐒+𝐌𝐃+CREATED+BY+Malvin_.&heart;++;Self-taught+Back-Created+By,;Malvin+King+Tech+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z">
- <img alt="𝐑𝐀𝐕𝐄𝐍𝐒 BUG BOT" height="300" src="https://telegra.ph/file/dc73e16b9988c7c56b56f.jpg">
+  *𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 LIL LIAM EFFECT-MD*
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'M+LILLIAMEFFECT+𝐌𝐃+CREATED+BY+LilLiamEffect_.&heart;++;Self-taught+Back-Created+By,;lilLiam+Effect+Tech+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029VahZprsEawduA2d6251t">
+ <img alt="LILLIAMEFFECT BUG BOT" height="300" src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg">
   
 </h1> 
-<p align="center">𝐢𝐧𝐭𝐨𝐝𝐮𝐜𝐢𝐧𝐠 <b>RAVENS MD</b>, 𝐚 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐬𝐢𝐦𝐩𝐥𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐛𝐨𝐭 </p>
+<p align="center">𝐢𝐧𝐭𝐨𝐝𝐮𝐜𝐢𝐧𝐠 <b>LIL LIAMEFFECT MD</b>, 𝐚 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐬𝐢𝐦𝐩𝐥𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐛𝐨𝐭 </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/kingmalvn?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?label=Followers&style=social"></a>
-<a href="https://github.com/kingmalvn/RAVENS-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/kingmalvn/RAVENS-MD?&style=social"></a>
-<a href="https://github.com/kingmalvn/RAVENS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/RAVENS-MD?style=social"></a>
-<a href="https://github.com/kingmalvn/RAVENS-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/RAVENS-MD?label=Watching&style=social"></a>
+<a href="https://github.com/LiamEffect55?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LiamEffect55?label=Followers&style=social"></a>
+<a href="https://github.com/LiamEffect55/LILLIAMEFFECT-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/LiamEffect55/LILLIAMEFFECT-MD?&style=social"></a>
+<a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LiamEffect55/LIL LIAMEFFECT-MD?style=social"></a>
+<a href="https://github.com/LiamEffect55/LIL LIAM EFFECT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LiamEffect55/LIL LIAMEFFECT-MD?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt="RAVENS-MD :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{LiamEffect}/count.svg" alt="LIL LIAMEFFECT-MD :: Visitor's Count"/></p>
 
 ---
 
@@ -27,12 +27,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/kingmalvn/RAVENS-MD"><b>RAVENS-MD</b></a> Support Deploy On...
+  <a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD"><b>LIL LIAMEFFECT-MD</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/kingmalvn/RAVENS-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/RAVENS-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </
     
@@ -47,7 +47,7 @@
 
 
 
-  *𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐑𝐀𝐕𝐄𝐍𝐒 𝐌𝐃*
+  *𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 LIL LIAM EFFECT-𝐌𝐃*
 
  
 
@@ -55,7 +55,7 @@
   *𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏* 
 
 
-<a href="https://github.com/kingmalvn/RAVENS-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 **star✨ my repo if you like this bot🤖**
 
@@ -68,14 +68,14 @@
    *𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐁𝐘*
  
 
-<a href="https://ravenssession-1127b51d295b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/RAVENS MD APP-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://lilLiameffect session-1127b51d295b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/LIL LIAM EFFECT-MD APP-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
  
 
-<a href="https://ravenssession-1127b51d295b.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR PAIRING CODE-h?color=blue&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://lilliameffectsession-1127b51d295b.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR PAIRING CODE-h?color=blue&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
-<a href="https://ravenssession-1127b51d295b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://lilliameffectssession-1127b51d295b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
   *𝟑.𝐓𝐇𝐈𝐑𝐃 𝐒𝐓𝐄𝐏*  
@@ -90,7 +90,7 @@
 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/RAVENS-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/LiamEffect55/LIL LIAM EFFECT-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
@@ -116,23 +116,23 @@
 
 <table>
   <tr>
-    <td>Malvin King</td>
-    <td>Ravens wa channel</td>
+    <td>LiamEffect</td>
+    <td>LilLiamEffect wa channel</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/263780934873"><img src="https://telegra.ph/file/c9c6321a00c3b14908cd8.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://i.imgur.com/ozlwHK1.jpeg" width="180"</td>
+    <td><a href="https://wa.me/256707089621"><img src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VahZprsEawduA2d6251t"><img src="https://i.imgur.com/ozlwHK1.jpeg" width="180"</td>
   </tr>
 </table>
 
 
- *©Malvin King inc*
+ *© Lil LiamEffect inc*
 
 
 
 
 
 
-   *𝐤𝐞𝐞𝐩 𝐮𝐬𝐢𝐧𝐠 𝐫𝐚𝐯𝐞𝐧𝐬 𝐦𝐝 𝐰𝐚 𝐛𝐨𝐭*
+   *𝐤𝐞𝐞𝐩 𝐮𝐬𝐢𝐧𝐠 Lil LiamEffect 𝐦𝐝 𝐰𝐚 𝐛𝐨𝐭*
 
    
