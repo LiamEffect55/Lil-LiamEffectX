@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['RAVENS-MD', "safari", "1.0.0"],
+            browser: ['LIL LIAMEFFECT -MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{RAVENS Md}...[][]");
+            console.log("\t [][]...{LIL LIAM EFFECT-Md}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from : " + nomGroupe);
@@ -684,7 +684,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ╚════◇◇◇═════╝
 ◇ *Descriptioon*   ◇
 
-${metadata.desc}\n\n> POWERED BY RAVENS TECH.`;
+${metadata.desc}\n\n> POWERED BY LIL LIAM EFFECT TECH.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -812,23 +812,23 @@ ${metadata.desc}\n\n> POWERED BY RAVENS TECH.`;
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ RAVENS-MD connecting in your account...");
+                console.log("ℹ️ LIL LIAMEFFECT-MD connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("✅ RAVENS-MD connected successfully☺️");
+                console.log("✅ LIL LIAMEFFECT-MD connected successfully☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("RAVENS-MD by Malvin King installing cmds😇\n\n");
+                console.log("LIL LIAM EFFECT-MD by LiamEffect installing cmds😇\n\n");
                 //chargement des commandes 
                 console.log("chargement des commandes ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/commandes/" + fichier);
-                            console.log(fichier + "Successfully installed RAVENS MD commands✔️");
+                            console.log(fichier + "Successfully installed LIL LIAM EFFEC-MD commands✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
@@ -848,19 +848,19 @@ ${metadata.desc}\n\n> POWERED BY RAVENS TECH.`;
                 else {
                     md = "undefined";
                 }
-                console.log("RAVENS-MD successfully connected✅");
+                console.log("LIL LIAM EFFECT-MD successfully connected✅");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `RAVENS-MD IS RUNNING NOW...
+                let cmsg = `LIL LIAM EFFECT-MD IS RUNNING NOW...
     
     Prefix : [ ${prefixe} ]
     Mode :${md} mode
     Total Command : ${evt.cm.length}
-    Owner : Malvin King 🤴 
+    Owner : LiamEffect 
 
-> THANK YOU FOR CHOOSING RAVENS-MD.\n`;
+> THANK YOU FOR CHOOSING LIL LIAMEFFECT-MD.\n`;
                 await zk.sendMessage("263780166288@s.whatsapp.net", { text: cmsg });
                 }
             }
