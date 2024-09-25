@@ -8,9 +8,9 @@
 
 </p>
   <p align="center">
-<a href="https://github.com/LiamEffect55?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LiamEffect55?label=Followers&style=social"></a>
+<a href="https://github.com/LiamEffect55/Lil-LiamEffectMd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LiamEffect55?label=Followers&style=social"></a>
 <a href="https://github.com/LiamEffect55/Lil-LiamEffectMd/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/LiamEffect55/LIL LIAM EFFECT?&style=social"></a>
-<a href=".https://github.com/LiamEffect55/Lil-LiamEffectMd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LiamEffect55/LIL LIAMEFFECT-MD?style=social"></a>
+<a href="https://github.com/LiamEffect55/Lil-LiamEffectMd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LiamEffect55/LIL LIAMEFFECT-MD?style=social"></a>
 <a href="https://github.com/LiamEffect55/Lil-LiamEffectMd/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LiamEffect55/LIL LIAMEFFECT-MD?label=Watching&style=social"></a>
 
 </p>
