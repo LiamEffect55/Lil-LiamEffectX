@@ -1,1 +1,1 @@
-How To Contribute To Us Create an Issue on Github Add you phone number or email and tell us to Contact You Then Us how and why you want to contribute to this project BONIPHACE MD You can send anything via VODACOM Mpesa number +255767528416 MALEGESI BONIPHACE
+How To Contribute To Us Create an Issue on Github Add you phone number or email and tell us to Contact You Then Us how and why you want to contribute to this project lil LiamEffect MD You can send anything via  Airtel uganda number +256707089621 
