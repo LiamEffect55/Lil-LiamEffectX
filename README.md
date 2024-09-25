@@ -121,7 +121,7 @@
   </tr>
   <tr>
     <td><a href="https://wa.me/256707089621"><img src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VahZprsEawduA2d6251t"><img src="https://i.imgur.com/ozlwHK1.jpeg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VahZprsEawduA2d6251t"><img src="https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg" width="180"</td>
   </tr>
 </table>
 
