@@ -1,9 +1,9 @@
 {
   "name":"LIL LIAM EFFECT MD",
-  "description":"𝙱𝚎𝚜𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝙱𝚢 𝙼𝚊𝚕𝚟𝚒𝚗 𝚃𝚎𝚌𝚑 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 263780934873, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘𝚜𝚎 𝚁𝙰𝚅𝙴𝙽𝚂-𝙼𝙳",
+  "description":"𝙱𝚎𝚜𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝙱𝚢 LilLiamEffect  𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 256707089621, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘𝚜𝚎 Lil LiamEffect-𝙼𝙳",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dc73e16b9988c7c56b56f.jpg",
-  "repository":"https://github.com/kingmalvn/RAVENS-MD",
+  "logo":"https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg",
+  "repository":"https://github.com/LiamEffect55/Lil LiamEffect-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗥𝗔𝗩𝗘𝗡𝗦 𝗠𝗗",
+      "value":"LIL LIAM EFFECT MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dc73e16b9988c7c56b56f.jpg,https://telegra.ph/file/a0fe1c1c4b5cb2de79150.jpg",
+      "value":"https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "мαℓνιη кιηg👑"
+    "value": "LilLiamEffect"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of Zimbabwe '263')",
     "required":false,
-    "value": "263780934873"
+    "value": "256707089621"
 	  
   },
     "WARN_COUNT":
