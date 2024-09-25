@@ -9,9 +9,9 @@
 </p>
   <p align="center">
 <a href="https://github.com/LiamEffect55?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LiamEffect55?label=Followers&style=social"></a>
-<a href="https://github.com/LiamEffect55/LILLIAMEFFECT-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/LiamEffect55/LILLIAMEFFECT-MD?&style=social"></a>
-<a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LiamEffect55/LIL LIAMEFFECT-MD?style=social"></a>
-<a href="https://github.com/LiamEffect55/LIL LIAM EFFECT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LiamEffect55/LIL LIAMEFFECT-MD?label=Watching&style=social"></a>
+<a href="https://github.com/LiamEffect55/Lil-LiamEffectMd/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/LiamEffect55/LIL LIAM EFFECT?&style=social"></a>
+<a href=".https://github.com/LiamEffect55/Lil-LiamEffectMd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LiamEffect55/LIL LIAMEFFECT-MD?style=social"></a>
+<a href="https://github.com/LiamEffect55/Lil-LiamEffectMd/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LiamEffect55/LIL LIAMEFFECT-MD?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{LiamEffect}/count.svg" alt="LIL LIAMEFFECT-MD :: Visitor's Count"/></p>
@@ -27,12 +27,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD"><b>LIL LIAMEFFECT-MD</b></a> Support Deploy On...
+  <a href="https://github.com/LiamEffect55/Lil-LiamEffectMd"><b>LIL LIAMEFFECT-MD</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/LiamEffect55/Lil-LiamEffectMd/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/LiamEffect55/Lil-LiamEffectMd/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </
     
@@ -55,7 +55,7 @@
   *𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏* 
 
 
-<a href="https://github.com/LiamEffect55/LIL LIAMEFFECT-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/LiamEffect55/Lil-LiamEffectMd/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 **star✨ my repo if you like this bot🤖**
 
@@ -90,7 +90,7 @@
 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/LiamEffect55/LIL LIAM EFFECT-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/LiamEffect55/Lil-LiamEffectMd/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
